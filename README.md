@@ -73,3 +73,8 @@ Os arquivos originais devem estar na pasta ["C:\Program Files (x86)\steam\SteamL
 - [ ] MurderDetective - Não Feito
 - [ ] SurveyBomb - Não Feito
 - [ ] TheWheel - Não Feito
+
+-------
+## Nota
+Projeto movido para caixadojorge, para dar continuidade ao trabalho de todos colaboradores iniciais:
+RafaRed,Fepulo,argonptg,FelipeQC1000,cleo-dev,Ash-dot-jack,Ash-dot-jack,satoon10,Jahn16,monty-liam,Mutedddd,Geraldox,kaianvn,NICOLLASLINSOFC,Valalcar,Morosetti,gildwarren,victorjhf,caio13m,saadbruno,abneemias,gsantosdev,adityaraute
